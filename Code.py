@@ -1,7 +1,6 @@
 #install pycirclize
 import matplotlib.pyplot as plt
 from pycirclize import Circos
-from pycirclize.utils import load_prokaryote_example_file
 from pycirclize.parser import Gff
 
 # Load GFF file
